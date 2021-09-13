@@ -8,9 +8,9 @@ Built using React.js.
 4) Complete list of expenses for that year, each element including date, reason for expense and amount. 
 
 # Limitation
-Right now, the drop box is showing years from 2019 to 2022. To change that, make necessary changes in ExpensesFilter.js file.
+The drop box is showing years from 2019 to 2022. To change that, make necessary and required changes in ExpensesFilter.js file.
 
-# How the interface looks
+# How the Interface Looks
 
 ![expenses app](https://user-images.githubusercontent.com/61940499/133029286-ca5c33f9-6ce7-4180-9925-e3a00b0c919c.PNG)
 
