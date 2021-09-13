@@ -7,8 +7,9 @@ Built using React.js.
 3) Chart Bar (bar filled fully for the month with maximum expenses in the selected year).
 4) Complete list of expenses for that year, each element including date, reason for expense and amount. 
 
-## Limitation
-The drop box is showing years from 2019 to 2022. To change that, make necessary and required changes in ExpensesFilter.js file.
+## Limitations
+1) Project doesn't have a backend yet.
+2) The drop box is showing years from 2019 to 2022. To change that, make necessary and required changes in ExpensesFilter.js file.
 
 ## How the Interface Looks
 
