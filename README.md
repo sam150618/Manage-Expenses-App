@@ -2,9 +2,9 @@
 A Reactive App which displays your monthly (and yearly) expenses both graphically and in form of a list. 
 Built using React.js.
 ## Features 
-1) Add New Expense 
-2) Drop Box for filtering your expenses by year
-3) Chart Bar (bar filled fully for the month with maximum expenses)
+1) Add New Expense.
+2) Drop Box for filtering your expenses by year.
+3) Chart Bar (bar filled fully for the month with maximum expenses in the selected year).
 4) Complete list of expenses for that year, each element including date, reason for expense and amount. 
 
 ## Limitation
